@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|g |a | |g|j| |
+|g |a |l|g|j| |
 
 |k|I|-|-|-|-|
 
@@ -17,3 +17,5 @@
 * Dyantho raad I (FOUT!)
 * Liam raad j (goed)
 * Dyantho raad a (Goed)
+* Liam raad l (goed)
+* 
