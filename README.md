@@ -4,7 +4,7 @@
 
 |g | | | | | |
 
-|k|-|-|-|-|-|
+|k|I|-|-|-|-|
 
 |1|2|3|4|5|6|
 
@@ -14,3 +14,4 @@
 ## Beurten
 * Dyantho raad g (goed)
 * Liam raad k (fout)
+* Dyantho raad I (FOUT!)
