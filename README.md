@@ -4,7 +4,7 @@
 
 |g |a |l|g|j| |
 
-|k|I|-|-|-|-|
+|k|I|C|-|-|-|
 
 |1|2|3|4|5|6|
 
@@ -18,4 +18,4 @@
 * Liam raad j (goed)
 * Dyantho raad a (Goed)
 * Liam raad l (goed)
-* 
+* Dyantho raad c (FOUT OBVIOUSLY!)
